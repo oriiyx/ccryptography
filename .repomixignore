@@ -1,0 +1,28 @@
+# Add patterns to ignore here, one per line
+# Example:
+# *.log
+# tmp/
+
+libs/cjose/.github
+libs/cjose/doc
+libs/cjose/m4
+libs/cjose/platform
+libs/cjose/Makfile*
+libs/cjose/README.md
+libs/cjose/CHANGELOG.md
+libs/cjose/test
+libs/cjose/configure
+libs/cjose/ltmain.sh
+
+
+libs/miracl-core/arduino
+libs/miracl-core/go
+libs/miracl-core/cpp
+libs/miracl-core/java
+libs/miracl-core/javascript
+libs/miracl-core/python
+libs/miracl-core/rust
+libs/miracl-core/swift
+libs/miracl-core/wasm
+libs/miracl-core/tools/romgen.cpp
+libs/miracl-core/c/Doxyfile
