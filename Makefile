@@ -1,7 +1,7 @@
 # Makefile for C project with OpenSSL support on Mac M4 (Apple Silicon)
 
 # Project configuration
-PROJECT_NAME = your_project
+PROJECT_NAME = ccrypt
 SRC_DIR = src
 BUILD_DIR = build
 LIBS_DIR = libs
